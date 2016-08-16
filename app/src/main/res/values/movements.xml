@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movements">
+        <item>Tilt to the left</item>
+        <item>Tilt to the right</item>
+        <item>Tilt forwards</item>
+        <item>Tilt backwards</item>
+        <item>Yes nod</item>
+        <item>No nod</item>
+    </string-array>
+
+</resources>
